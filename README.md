@@ -1,0 +1,5 @@
+PHARMACY INVENTORY MANAGMENT SYSTEM 
+
+# CREDENTIALS
+user- admin
+password - admin
